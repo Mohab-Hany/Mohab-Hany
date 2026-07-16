@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohab Hany
 
-<!--
-**Mohab-Hany/Mohab-Hany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer
 
-Here are some ideas to get you started:
+🚀 Building Python Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning Backend Development
+
+💼 Open to Freelance Work
+
+🇪🇬 Based in Egypt
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Git
+- GitHub
+
+---
+
+## 📂 Projects
+
+- 🧮 Calculator
+- ✅ To-Do List
+- 🌦 Weather App (Coming Soon)
+
+---
+
+## 🎯 2026 Goals
+
+- Master Python
+- Learn Backend Development
+- Build 20+ Projects
+- Start Freelancing
