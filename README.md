@@ -1,4 +1,6 @@
-<img src="./Mohab Hany Aspiring Python Backend Developer Passionate About Building Useful Applications Python - Flask - SQL - Git - Lifelong Learner.png" alt="Mohab Hany Banner" width="100%">
+<p align="center">
+<img src="./banner.png" width="100%">
+</p>
 
 # 👋 Hi, I'm Mohab Hany
 
