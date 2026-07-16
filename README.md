@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./banner.png" width="100%">
-</p>
+<img src="./banner.png.png" width="100%">
 
 # 👋 Hi, I'm Mohab Hany
 
