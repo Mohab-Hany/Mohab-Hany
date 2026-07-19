@@ -1,60 +1,53 @@
 <img src="./banner.png.png" width="100%">
 
-# 👋 Hi, I'm Mohab Hany
+<h1 align="center">👋 Hi, I'm Mohab Hany</h1>
+<h3 align="center">Python Developer | Backend Learner | Freelancer</h3>
 
-## 🚀 Python Backend Developer
-
-I'm an aspiring Python Developer from Egypt, passionate about building useful applications and continuously improving my programming skills.
-
----
-
-## 💻 About Me
-
-- 🐍 Currently learning Python professionally
-- 🌱 Learning Backend Development
-- 🚀 Building real-world Python projects
-- 💼 Open to Freelance Opportunities
-- 📍 Based in Egypt
+<p align="center">
+  <a href="https://github.com/Mohab-Hany?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=Mohab-Hany&label=Profile%20views&color=0e75b6&style=flat" alt="Mohab-Hany" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- Python
-- Git
-- GitHub
-- VS Code
-- SQL (Learning)
-- Flask (Learning)
+### 🚀 About Me
+- 🔭 I’m currently building **Python Projects**
+- 🌱 I’m currently learning **Backend Development**
+- 💬 Ask me about **Python, Web Scraping, APIs**
+- 📫 How to reach me: **Open to Freelance Work**
+- 🇪🇬 Based in **Egypt**
 
 ---
 
-## 📂 Projects
-
-- 🧮 Calculator
-- ✅ To-Do List
-- 🌦 Weather App
-- 💰 Expense Tracker
-- 📝 Notes App
-- 🔐 Password Generator
-
-More projects coming soon...
+### 🛠️ Languages & Tools
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
 ---
 
-## 🎯 Goals
-
-- Become a Professional Python Backend Developer
-- Build High-Quality Projects
-- Start Freelancing
-- Contribute to Open Source
+### 📌 Featured Projects
+- **Currency Converter**: Live exchange rates using Python + API
+- **Website Scraper**: Extract data from websites using BeautifulSoup
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohab-Hany&show_icons=true&theme=radical" alt="Mohab-Hany" />
+</p>
 
-- GitHub: https://github.com/Mohab-Hany
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohab-Hany&layout=compact&theme=radical" alt="Mohab-Hany" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🤝 Connect With Me
+<p align="left">
+Open to Freelance and Collaboration
+</p>
